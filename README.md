@@ -1,2 +1,2 @@
 # GitHub-
-So thia ia me commiting to github for the first time 
+So this is me commiting to github for the first time 
